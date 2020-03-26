@@ -41,10 +41,7 @@ Arguments: args[0] for port number             *
 ************************************************ 
 1. Open Command Prompt
 2. Navigate to the bin folder of the project.
-  For example: If the project is extracted to the following folder structure
-  C:\Users\Desktop\MSCSS\558 C - ADC\ADC_HW_Eclipse_WS\ClientServerApp
 
- 
 3. Once navigated, run the command - java clientserverapp.Server portNumber
     For eg.the portnumber could be - 1342
 
@@ -56,8 +53,7 @@ Arguments: args[0] for port number             *
     d. When the server receives "End" message, Connection is closed.  	  
 
 ************************************************
-Program: Client.java                           *
-Authors: Group 7                               *
+Program: Client.java                           *                           
 Arguments: args[0] for ip address,             *
            args[1] for port number             *
 ************************************************
