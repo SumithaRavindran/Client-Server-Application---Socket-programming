@@ -1,7 +1,7 @@
 # Client-Server-Application---Socket-programming
 ************************************************
-Program: Client-Server Application             *
-Authors: Sumitha Ravindran                     *
+Program: Client-Server Application             
+Authors: Sumitha Ravindran                     
 ************************************************
 About:
 This is a Client Server Application where a connection is established between the client and the server.
@@ -14,12 +14,12 @@ Once the Server is started, we run the command to start the client. The Client a
 This is a chatting application where the server is pre-populated with an English to Spanish dictionary for the days of the week, soon after the client establishes a connection with the Server.
 
 English to spanish dictionary:
-"Monday"    - "Lunes"
-"Tuesday"   - "Martes"
-"Wednesday" - "Miercoles"
-"Thursday"  - "Jueves"
-"Friday"    - "Viernes"
-"Saturday"  - "Sabado"
+"Monday"    - "Lunes", 
+"Tuesday"   - "Martes",
+"Wednesday" - "Miercoles",
+"Thursday"  - "Jueves",
+"Friday"    - "Viernes",
+"Saturday"  - "Sabado",
 "Sunday"    - "Domingo" 
 
 Once the server is prepopulated with the values, the user can enter a Day of the week in English language, client reads and sends that message to server. The spanish translation for the Day will be sent back to the client from the server.
@@ -35,9 +35,9 @@ Both the client and server displays the request timestamp and its response times
 Steps to Follow for running the program:
 	  
 ************************************************
-Program: Server.java                           *                              
-Arguments: args[0] for port number             *
-                                               *
+Program: Server.java                                                       
+Arguments: args[0] for port number             
+                                               
 ************************************************ 
 1. Open Command Prompt
 2. Navigate to the bin folder of the project.
@@ -53,9 +53,9 @@ Arguments: args[0] for port number             *
     d. When the server receives "End" message, Connection is closed.  	  
 
 ************************************************
-Program: Client.java                           *                           
-Arguments: args[0] for ip address,             *
-           args[1] for port number             *
+Program: Client.java                                                     
+Arguments: args[0] for ip address,             
+           args[1] for port number             
 ************************************************
 1. Open Command Prompt
 2. Navigate to the bin folder of the project.
