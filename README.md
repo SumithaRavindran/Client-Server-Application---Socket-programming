@@ -1,7 +1,7 @@
 # Client-Server-Application---Socket-programming
 ************************************************
 Program: Client-Server Application             
-Authors: Sumitha Ravindran                     
+Author: Sumitha Ravindran                     
 ************************************************
 About:
 This is a Client Server Application where a connection is established between the client and the server.
